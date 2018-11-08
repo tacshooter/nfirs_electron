@@ -1,0 +1,23 @@
+{
+  "name": "nfirs",
+  "version": "1.0.0",
+  "description": "NFIRS Reporting Example",
+  "main": "main.js",
+  "scripts": {
+    "test": "test",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tacshooter/nfirs_electron.git"
+  },
+  "author": "Ken Ferguson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tacshooter/nfirs_electron/issues"
+  },
+  "homepage": "https://github.com/tacshooter/nfirs_electron#readme",
+  "dependencies": {
+    "electron": "^3.0.8"
+  }
+}
